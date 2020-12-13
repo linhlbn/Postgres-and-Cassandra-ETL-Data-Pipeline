@@ -9,7 +9,7 @@
 
 # I/ Purpose of the project
 
-The project is a series of practical concept from Udacity DEND with:
+The project is a series of practical concept about Data Engineering task at a imagine start up called Sparkify:
 * Data modeling  
 * Create a Postgres database with star schema  
 * ETL Postgres pipeline with Python  
